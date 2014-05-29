@@ -1,0 +1,5 @@
+class Login {
+	function getLogin() {
+
+	}
+}
